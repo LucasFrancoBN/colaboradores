@@ -15,16 +15,21 @@ Nome do departamento: Vendas
 Dia do pagamento: 10
 Email: vendas@lojatop.com
 Telefone: 99883355
+
 Quantos funcionários tem o departamento? 2
+
 Dados do funcionário 1:
 Nome: João Silva
 Salário: 8000.00
+
 Dados do funcionário 2:
 Nome: Maria Torres
 Salário: 10000.00
+
 FOLHA DE PAGAMENTO:
 Departamento Vendas = R$ 18000.00
 Pagamento realizado no dia 10
+
 Funcionários:
 João Silva
 Maria Torres
