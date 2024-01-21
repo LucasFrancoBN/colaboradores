@@ -1,5 +1,5 @@
 # Desafio: Colaboradores
-O programa lê os dados de um departamento, que inclui seu endereço e seus empregados. Em seguida mostra-se na tela um relatório de folha de pagamento. As regras para este desafio são:
+O programa tem como objetivo ler os dados de um departamento, que inclui seu endereço e seus empregados. Em seguida mostrar na tela um relatório de folha de pagamento. As regras para este desafio são:
 
 1. **Diagrama de classe UML:**
    - Seguir exatamente o diagrama de classe abaixo:
