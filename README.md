@@ -4,7 +4,7 @@ O programa tem como objetivo ler os dados de um departamento, que inclui seu end
 1. **Diagrama de classe UML:**
    - Seguir exatamente o diagrama de classe abaixo:
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/combate-java/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/colaboradores/blob/master/img/diagrama_classe.png)
    
 2. **Métodos:**
    - payroll: Responsável por retornar o valor total da folha de pagamento do departamento.
